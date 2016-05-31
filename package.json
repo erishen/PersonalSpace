@@ -12,5 +12,8 @@
   },
   "scripts": {
     "start": "watchify js/*.js js/*/*.js -v -t babelify -o bundle.js"
+  },
+  "devDependencies": {
+
   }
 }
